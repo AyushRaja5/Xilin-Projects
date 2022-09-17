@@ -1,0 +1,2 @@
+xst -ise "D:/Xilin LAb/FullAdderUsingMuxCaseStatement/FullAdderUsingMuxCaseStatement.ise" -intstyle ise -ifn FAusngMUX4.xst -ofn FAusngMUX4.syr
+xst -ise "D:/Xilin LAb/FullAdderUsingMuxCaseStatement/FullAdderUsingMuxCaseStatement.ise" -intstyle ise -ifn FAusngMUX4.xst -ofn FAusngMUX4.syr

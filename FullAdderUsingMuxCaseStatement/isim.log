@@ -1,0 +1,42 @@
+ command line:
+   ./FAuseMUXTB_v_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  56831
+
+Tue Nov 23 03:05:53 2021
+
+WARNING:Simulator:13 - For instance /FAuseMUXTB_v/uut/m2/, width 1 of formal
+   port d0 is not equal to width 32 of actual constant.
+WARNING:Simulator:13 - For instance /FAuseMUXTB_v/uut/m2/, width 1 of formal
+   port d3 is not equal to width 32 of actual constant.
+Total Line Count : 96
+
+ Elaboration time : 0.046875 sec.
+
+ Estimate current memory usage : 157.417 Meg. 
+
+ Total Signals          : 30
+ Total Nets             : 78
+ Total Signal Drivers   : 11
+ Total Blocks           : 5
+ Total Primitive Blocks : 3
+ Total Processes        : 12
+ Total Traceable Variables  : 20
+ Total Scalar Nets and Variables : 160
+ntrace select -o on -n /FAuseMUXTB_v/Carry 
+ntrace select -o on -n /FAuseMUXTB_v/Sum 
+ntrace select -o on -n /FAuseMUXTB_v/A 
+ntrace select -o on -n /FAuseMUXTB_v/B 
+ntrace select -o on -n /FAuseMUXTB_v/Cin 
+ntrace start 
+isimrun 1000 ns 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+
+ Simulation time 0.09375 sec.
+
+ Estimate current memory usage : 163.058 Meg. 
+
+Tue Nov 23 03:08:45 2021
+

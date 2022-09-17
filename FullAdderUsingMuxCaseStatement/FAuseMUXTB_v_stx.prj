@@ -1,0 +1,3 @@
+verilog isim_temp "FAusngMUX4.v"
+verilog isim_temp "FAuseMUXTB.v"
+verilog isim_temp "C:/Xilinx92i/verilog/src/glbl.v"

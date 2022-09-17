@@ -1,0 +1,10 @@
+V3 9
+FL $XILINX/verilog/src/glbl.v 2007/05/19.02:52:56 J.36
+MO isim_temp/glbl FL $XILINX/verilog/src/glbl.v
+FL "D:/Xilin LAb/FullAdderUsingMuxCaseStatement/FAuseMUXTB.v" 2021/11/23.02:51:37 J.36
+MO isim_temp/FAuseMUXTB_v \
+      FL "D:/Xilin LAb/FullAdderUsingMuxCaseStatement/FAuseMUXTB.v" MI FAusngMUX4
+FL "D:/Xilin LAb/FullAdderUsingMuxCaseStatement/FAusngMUX4.v" 2021/11/23.02:47:02 J.36
+MO isim_temp/mux FL "D:/Xilin LAb/FullAdderUsingMuxCaseStatement/FAusngMUX4.v"
+MO isim_temp/FAusngMUX4 \
+      FL "D:/Xilin LAb/FullAdderUsingMuxCaseStatement/FAusngMUX4.v" MI mux
