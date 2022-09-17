@@ -1,0 +1,36 @@
+ command line:
+   ./DownCountTB_v_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  50602
+
+Tue Nov 02 13:36:52 2021
+
+WARNING:Simulator:13 - For instance /DownCountTB_v/uut/T1/, width 1 of formal
+   port t is not equal to width 4 of actual constant.
+Total Line Count : 92
+
+ Elaboration time : 0.015625 sec.
+
+ Estimate current memory usage : 157.807 Meg. 
+
+ Total Signals          : 42
+ Total Nets             : 24
+ Total Signal Drivers   : 16
+ Total Blocks           : 7
+ Total Primitive Blocks : 5
+ Total Processes        : 19
+ Total Traceable Variables  : 19
+ Total Scalar Nets and Variables : 105
+ntrace select -o on -m / -l this 
+ntrace start 
+isimrun 1000 ns 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+
+ Simulation time 0.046875 sec.
+
+ Estimate current memory usage : 163.279 Meg. 
+
+Tue Nov 02 13:38:29 2021
+

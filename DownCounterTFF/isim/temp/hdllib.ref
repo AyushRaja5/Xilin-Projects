@@ -1,0 +1,4 @@
+MO DownCountTB_v NULL "D:/Xilin LAb/DownCounterTFF/DownCountTB.v" vlg40/_down_count_t_b__v.bin 1635840402
+MO tff NULL "D:/Xilin LAb/DownCounterTFF/DownCounterM.v" vlg38/tff.bin 1635840402
+MO DownCounterM NULL "D:/Xilin LAb/DownCounterTFF/DownCounterM.v" vlg49/_down_counter_m.bin 1635840402
+MO glbl NULL C:/Xilinx92i/verilog/src/glbl.v vlg2D/glbl.bin 1635840402

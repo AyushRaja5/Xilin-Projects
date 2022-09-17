@@ -1,0 +1,3 @@
+verilog isim_temp "DownCounterM.v"
+verilog isim_temp "DownCountTB.v"
+verilog isim_temp "C:/Xilinx92i/verilog/src/glbl.v"

@@ -1,0 +1,7 @@
+xst -ise "D:/Xilin LAb/DownCounterTFF/DownCounterTFF.ise" -intstyle ise -ifn DownCounterM.xst -ofn DownCounterM.syr
+xst -ise "D:/Xilin LAb/DownCounterTFF/DownCounterTFF.ise" -intstyle ise -ifn DownCounterM.xst -ofn DownCounterM.syr
+xst -ise "D:/Xilin LAb/DownCounterTFF/DownCounterTFF.ise" -intstyle ise -ifn DownCounterM.xst -ofn DownCounterM.syr
+xst -ise "D:/Xilin LAb/DownCounterTFF/DownCounterTFF.ise" -intstyle ise -ifn DownCounterM.xst -ofn DownCounterM.syr
+xst -ise "D:/Xilin LAb/DownCounterTFF/DownCounterTFF.ise" -intstyle ise -ifn DownCounterM.xst -ofn DownCounterM.syr
+xst -ise "D:/Xilin LAb/DownCounterTFF/DownCounterTFF.ise" -intstyle ise -ifn DownCounterM.xst -ofn DownCounterM.syr
+xst -ise "D:/Xilin LAb/DownCounterTFF/DownCounterTFF.ise" -intstyle ise -ifn DownCounterM.xst -ofn DownCounterM.syr

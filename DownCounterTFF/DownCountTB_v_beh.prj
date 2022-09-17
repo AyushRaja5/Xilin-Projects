@@ -1,0 +1,3 @@
+verilog work "DownCounterM.v"
+verilog work "DownCountTB.v"
+verilog work "C:/Xilinx92i/verilog/src/glbl.v"
