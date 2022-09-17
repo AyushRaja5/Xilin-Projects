@@ -1,0 +1,1 @@
+xst -ise "D:/Xilin LAb/SyncUP/SyncUP.ise" -intstyle ise -ifn SuncUPM.xst -ofn SuncUPM.syr

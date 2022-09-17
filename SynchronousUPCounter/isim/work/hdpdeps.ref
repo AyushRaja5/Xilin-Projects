@@ -1,0 +1,9 @@
+V3 9
+FL $XILINX/verilog/src/glbl.v 2007/05/19.02:52:56 J.36
+MO work/glbl FL $XILINX/verilog/src/glbl.v
+FL "D:/Xilin LAb/SyncUP/SuncUPM.v" 2021/11/02.11:47:51 J.36
+MO work/dff FL "D:/Xilin LAb/SyncUP/SuncUPM.v"
+MO work/SuncUPM \
+      FL "D:/Xilin LAb/SyncUP/SuncUPM.v" MI dff
+FL "D:/Xilin LAb/SyncUP/SyncTB.v" 2021/11/02.11:52:03 J.36
+MO work/SyncTB_v FL "D:/Xilin LAb/SyncUP/SyncTB.v" MI SuncUPM

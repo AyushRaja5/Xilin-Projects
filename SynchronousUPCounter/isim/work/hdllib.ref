@@ -1,0 +1,4 @@
+MO dff NULL "D:/Xilin LAb/SyncUP/SuncUPM.v" vlg28/dff.bin 1635834102
+MO SyncTB_v NULL "D:/Xilin LAb/SyncUP/SyncTB.v" vlg18/_sync_t_b__v.bin 1635834124
+MO glbl NULL C:/Xilinx92i/verilog/src/glbl.v vlg2D/glbl.bin 1635834125
+MO SuncUPM NULL "D:/Xilin LAb/SyncUP/SuncUPM.v" vlg33/_sunc_u_p_m.bin 1635834102

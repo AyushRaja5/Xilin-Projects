@@ -1,0 +1,3 @@
+verilog work "SuncUPM.v"
+verilog work "SyncTB.v"
+verilog work "C:/Xilinx92i/verilog/src/glbl.v"
