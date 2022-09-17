@@ -1,0 +1,39 @@
+ command line:
+   ./UPcounterTB_v_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  65330
+
+Tue Nov 02 21:26:05 2021
+
+Total Line Count : 88
+
+ Elaboration time : 0.015625 sec.
+
+ Estimate current memory usage : 157.159 Meg. 
+
+ Total Signals          : 42
+ Total Nets             : 21
+ Total Signal Drivers   : 16
+ Total Blocks           : 7
+ Total Primitive Blocks : 5
+ Total Processes        : 20
+ Total Traceable Variables  : 19
+ Total Scalar Nets and Variables : 102
+ntrace select -o on -n /UPcounterTB_v/Q0 
+ntrace select -o on -n /UPcounterTB_v/Q1 
+ntrace select -o on -n /UPcounterTB_v/Q2 
+ntrace select -o on -n /UPcounterTB_v/Q3 
+ntrace select -o on -n /UPcounterTB_v/clk 
+ntrace select -o on -n /UPcounterTB_v/rst 
+ntrace start 
+isimrun 1000 ns 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+
+ Simulation time 0.0625 sec.
+
+ Estimate current memory usage : 162.8 Meg. 
+
+Tue Nov 02 21:45:31 2021
+

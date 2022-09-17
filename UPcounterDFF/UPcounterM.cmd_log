@@ -1,0 +1,6 @@
+xst -ise "D:/Xilin LAb/UPcounterDFF/UPcounterDFF.ise" -intstyle ise -ifn UPcounterM.xst -ofn UPcounterM.syr
+xst -ise "D:/Xilin LAb/UPcounterDFF/UPcounterDFF.ise" -intstyle ise -ifn UPcounterM.xst -ofn UPcounterM.syr
+xst -ise "D:/Xilin LAb/UPcounterDFF/UPcounterDFF.ise" -intstyle ise -ifn UPcounterM.xst -ofn UPcounterM.syr
+xst -ise "D:/Xilin LAb/UPcounterDFF/UPcounterDFF.ise" -intstyle ise -ifn UPcounterM.xst -ofn UPcounterM.syr
+xst -ise "D:/Xilin LAb/UPcounterDFF/UPcounterDFF.ise" -intstyle ise -ifn UPcounterM.xst -ofn UPcounterM.syr
+xst -ise "D:/Xilin LAb/UPcounterDFF/UPcounterDFF.ise" -intstyle ise -ifn UPcounterM.xst -ofn UPcounterM.syr

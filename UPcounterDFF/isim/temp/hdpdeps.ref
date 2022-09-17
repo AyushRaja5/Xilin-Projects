@@ -1,0 +1,10 @@
+V3 9
+FL $XILINX/verilog/src/glbl.v 2007/05/19.02:52:56 J.36
+MO isim_temp/glbl FL $XILINX/verilog/src/glbl.v
+FL "D:/Xilin LAb/UPcounterDFF/UPcounterM.v" 2021/11/02.12:18:05 J.36
+MO isim_temp/dff FL "D:/Xilin LAb/UPcounterDFF/UPcounterM.v"
+MO isim_temp/UPcounterM \
+      FL "D:/Xilin LAb/UPcounterDFF/UPcounterM.v" MI dff
+FL "D:/Xilin LAb/UPcounterDFF/UPcounterTB.v" 2021/11/02.12:21:54 J.36
+MO isim_temp/UPcounterTB_v FL "D:/Xilin LAb/UPcounterDFF/UPcounterTB.v" \
+      MI UPcounterM

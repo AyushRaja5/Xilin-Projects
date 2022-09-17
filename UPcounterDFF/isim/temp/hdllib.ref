@@ -1,0 +1,4 @@
+MO dff NULL "D:/Xilin LAb/UPcounterDFF/UPcounterM.v" vlg28/dff.bin 1635847796
+MO UPcounterM NULL "D:/Xilin LAb/UPcounterDFF/UPcounterM.v" vlg76/_u_pcounter_m.bin 1635847796
+MO glbl NULL C:/Xilinx92i/verilog/src/glbl.v vlg2D/glbl.bin 1635847796
+MO UPcounterTB_v NULL "D:/Xilin LAb/UPcounterDFF/UPcounterTB.v" vlg4C/_u_pcounter_t_b__v.bin 1635847796

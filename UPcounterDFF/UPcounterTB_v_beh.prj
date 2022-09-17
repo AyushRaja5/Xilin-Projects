@@ -1,0 +1,3 @@
+verilog work "UPcounterM.v"
+verilog work "UPcounterTB.v"
+verilog work "C:/Xilinx92i/verilog/src/glbl.v"
