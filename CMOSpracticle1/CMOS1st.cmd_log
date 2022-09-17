@@ -1,0 +1,5 @@
+xst -ise "D:/Xilin LAb/CMOSpracticle1/CMOSpracticle1.ise" -intstyle ise -ifn CMOS1st.xst -ofn CMOS1st.syr
+xst -ise "D:/Xilin LAb/CMOSpracticle1/CMOSpracticle1.ise" -intstyle ise -ifn CMOS1st.xst -ofn CMOS1st.syr
+xst -ise "D:/Xilin LAb/CMOSpracticle1/CMOSpracticle1.ise" -intstyle ise -ifn CMOS1st.xst -ofn CMOS1st.syr
+xst -ise "D:/Xilin LAb/CMOSpracticle1/CMOSpracticle1.ise" -intstyle ise -ifn CMOS1st.xst -ofn CMOS1st.syr
+xst -ise "D:/Xilin LAb/CMOSpracticle1/CMOSpracticle1.ise" -intstyle ise -ifn CMOS1st.xst -ofn CMOS1st.syr
