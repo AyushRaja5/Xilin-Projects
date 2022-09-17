@@ -1,0 +1,25 @@
+Release 9.2i - xst J.36
+Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to ./xst/projnav.tmp
+CPU : 0.00 / 0.19 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "mux16.v" in library work
+Module <mux4> compiled
+Module <mux16> compiled
+No errors in compilation
+Analysis of file <"mux16.prj"> succeeded.
+ 
+CPU : 0.03 / 0.22 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+
+Total memory usage is 174848 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

@@ -1,0 +1,36 @@
+ command line:
+   ./mux16IFELSETB_v_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  60157
+
+Tue Nov 23 21:57:04 2021
+
+Total Line Count : 132
+
+ Elaboration time : 0.03125 sec.
+
+ Estimate current memory usage : 157.245 Meg. 
+
+ Total Signals          : 46
+ Total Nets             : 33
+ Total Signal Drivers   : 10
+ Total Blocks           : 8
+ Total Primitive Blocks : 6
+ Total Processes        : 13
+ Total Traceable Variables  : 19
+ Total Scalar Nets and Variables : 132
+ntrace select -o on -n /mux16IFELSETB_v/Out 
+ntrace select -o on -n /mux16IFELSETB_v/I 
+ntrace select -o on -n /mux16IFELSETB_v/Sel 
+ntrace start 
+isimrun 1000 ns 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+
+ Simulation time 0.15625 sec.
+
+ Estimate current memory usage : 162.886 Meg. 
+
+Tue Nov 23 22:09:20 2021
+

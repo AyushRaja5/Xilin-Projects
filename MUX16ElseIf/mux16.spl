@@ -1,0 +1,9 @@
+[Inputs]
+=I[15:0]=
+=Sel[3:0]=
+[Outputs]
+Out
+[BiDir]
+[ATTRIBUTES]
+VeriModel mux16
+

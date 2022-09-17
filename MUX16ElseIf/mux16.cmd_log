@@ -1,0 +1,4 @@
+xst -ise "D:/Xilin LAb/MUX16ElseIf/MUX16ElseIf.ise" -intstyle ise -ifn mux16.xst -ofn mux16.syr
+xst -ise "D:/Xilin LAb/MUX16ElseIf/MUX16ElseIf.ise" -intstyle ise -ifn mux16.xst -ofn mux16.syr
+xst -ise "D:/Xilin LAb/MUX16ElseIf/MUX16ElseIf.ise" -intstyle ise -ifn mux16.xst -ofn mux16.syr
+xst -ise "D:/Xilin LAb/MUX16ElseIf/MUX16ElseIf.ise" -intstyle ise -ifn mux16.xst -ofn mux16.syr

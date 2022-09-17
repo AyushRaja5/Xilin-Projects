@@ -1,0 +1,11 @@
+
+
+
+// Instantiate the module
+mux16 instance_name (
+    .I(I), 
+    .Sel(Sel), 
+    .Out(Out)
+    );
+
+
